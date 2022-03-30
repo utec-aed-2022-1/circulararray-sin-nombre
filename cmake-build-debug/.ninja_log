@@ -1,0 +1,26 @@
+# ninja log v5
+1	798	6702980736779971	CMakeFiles/circulararray_sin_nombre.dir/main.cpp.obj	f3a9eca7a6b53a0e
+0	15	0	clean	e46f23beb2a48637
+0	839	6702990878607037	CMakeFiles/circulararray_sin_nombre.dir/main.cpp.obj	f3a9eca7a6b53a0e
+849	2193	6702990891388347	circulararray_sin_nombre.exe	d0bcf234ced373be
+0	16	0	clean	e46f23beb2a48637
+0	1182	6702998128910376	CMakeFiles/circulararray_sin_nombre.dir/main.cpp.obj	f3a9eca7a6b53a0e
+1186	1708	6702998133378434	circulararray_sin_nombre.exe	d0bcf234ced373be
+0	16	0	clean	e46f23beb2a48637
+0	15	0	clean	e46f23beb2a48637
+0	15	0	clean	e46f23beb2a48637
+0	16	0	clean	e46f23beb2a48637
+0	17	0	clean	e46f23beb2a48637
+0	16	0	clean	e46f23beb2a48637
+0	16	0	clean	e46f23beb2a48637
+0	15	0	clean	e46f23beb2a48637
+0	16	0	clean	e46f23beb2a48637
+0	15	0	clean	e46f23beb2a48637
+0	15	0	clean	e46f23beb2a48637
+0	22	0	clean	e46f23beb2a48637
+1	23	0	clean	e46f23beb2a48637
+0	22	0	clean	e46f23beb2a48637
+0	24	0	clean	e46f23beb2a48637
+1	25	0	clean	e46f23beb2a48637
+0	935	6703037584561611	CMakeFiles/circulararray_sin_nombre.dir/main.cpp.obj	f3a9eca7a6b53a0e
+938	1910	6703037592829469	circulararray_sin_nombre.exe	d0bcf234ced373be
